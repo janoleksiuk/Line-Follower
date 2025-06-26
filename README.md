@@ -30,5 +30,5 @@ The chassis was built using **LEGO** components. Two wheels powered by 12V DC mo
 ## 🔧 Arduino Setup
 
 The Arduino code reads values from the IR sensor and adjusts motor speeds to steer the car to stay on the line.
-The code is complied with  board from Arduino family.
+The code is compatibile with  board from Arduino family.
 
