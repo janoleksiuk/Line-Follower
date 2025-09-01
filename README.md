@@ -1,6 +1,6 @@
 # Line-Follower
 
-Autonomous line-following mobile robot based on Arduino and LEGO construction.
+**Autonomous line-following mobile robot based on Arduino and LEGO construction.**
 
 ---
 
